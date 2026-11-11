@@ -1,0 +1,7 @@
+plotly
+pandas
+numpy
+matplotlib
+streamlit
+pysqlite3
+seaborn
